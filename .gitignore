@@ -1,0 +1,28 @@
+# Gradle
+.gradle/
+build/
+out/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.project
+.classpath
+bin/
+
+# Minecraft dev run directory
+run/
+logs/
+
+# Compiled artifacts
+*.class
+*.jar
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

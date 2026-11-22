@@ -1,0 +1,17 @@
+[
+{
+  "modid": "autorefill",
+  "name": "Auto Tool Refill",
+  "description": "When a tool runs out of durability, a same-type tool from your inventory is moved into that hotbar slot. If you have no spare, one is crafted on the spot from the materials you carry. Supports vanilla pickaxe / axe / shovel / sword / hoe, and swaps (but never crafts) damaged tools from other mods.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/stone2010/AutoToolRefill",
+  "updateUrl": "",
+  "authorList": [ "STG" ],
+  "credits": "Built for Minecraft 1.9.4 + Forge 12.17.0.2051",
+  "logoFile": "",
+  "screenshots": [],
+  "parent": "",
+  "dependencies": []
+}
+]

@@ -1,0 +1,11 @@
+# Normalize line endings to LF in the repository for text files
+* text=auto eol=lf
+
+*.jar   binary
+*.png   binary
+*.lzma  binary
+
+*.lang  text eol=lf
+*.java  text eol=lf
+*.gradle text eol=lf
+*.md    text eol=lf
